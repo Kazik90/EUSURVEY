@@ -9,7 +9,7 @@ description:
   en:
     documentation: |-
       https://github.com/EUSurvey/EUSURVEY
-    features:
+
       - Create survey, quiz, electronic votes
     genericName: EU Survey Software
     longDescription: |
